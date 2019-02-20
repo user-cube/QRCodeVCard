@@ -11,3 +11,5 @@ You only need to insert the full path to the file into the QRCode class and run 
 
 ### Output
 Example of output:
+
+![OUTPUT](https://github.com/user-cube/QRCodeVCard/blob/master/output.png?raw=true)
