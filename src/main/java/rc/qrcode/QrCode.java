@@ -38,7 +38,7 @@ public class QrCode {
         /**
          * Path to the CSV File.
          */
-        String csvFile = "/home/rc/NetBeansProjects/QRCode/src/main/java/rc/qrcode/qrcode.csv";
+        String csvFile = "insertFullPath";
         
         /**
          * Line to be added and splited.
